@@ -1,0 +1,208 @@
+ModelBegin
+  ClumpBegin #Layer: Cube
+    Surface 0.0275 1.0 1.0
+    Color 0.0275 0.0275 0.0275
+#texbegin Cube
+    Vertex 1.0 -0.093719 -0.578113 #1
+    Vertex 1.0 -0.093719 0.578113 #2
+    Vertex -1.0 -0.093719 0.578113 #3
+    Vertex -1.0 -0.093719 -0.578113 #4
+    Vertex 0.953093 0.093719 -0.551435 #5
+    Vertex 0.953092 0.093719 0.550695 #6
+    Vertex -0.953333 0.093719 0.550694 #7
+    Vertex -0.953333 0.093719 -0.551435 #8
+    Vertex -0.822116 -0.093719 -0.578113 #9
+    Vertex -0.822116 -0.093719 0.578113 #10
+    Vertex -0.783771 0.093719 -0.551435 #11
+    Vertex -0.783772 0.093719 0.550694 #12
+    Vertex 0.806709 -0.093719 -0.578113 #13
+    Vertex 0.806709 -0.093719 0.578113 #14
+    Vertex 0.768845 0.093719 -0.551435 #15
+    Vertex 0.768844 0.093719 0.550695 #16
+    Vertex 1.0 -0.093719 0.357499 #17
+    Vertex -1.0 -0.093719 0.357498 #18
+    Vertex 0.953092 0.093719 0.340402 #19
+    Vertex -0.953333 0.093719 0.340402 #20
+    Vertex 1.0 0.209171 0.357499 #21
+    Vertex -0.822116 -0.093719 0.357498 #22
+    Vertex 0.806709 -0.093719 0.357499 #23
+    Vertex 0.999999 0.209171 0.578114 #24
+    Vertex -1.0 -0.093719 -0.405007 #25
+    Vertex -0.953333 0.093719 -0.386428 #26
+    Vertex -0.822116 -0.093719 -0.405007 #27
+    Vertex 0.806709 -0.093719 -0.405007 #28
+    Vertex 1.0 -0.093719 -0.405007 #29
+    Vertex 0.953093 0.093719 -0.386428 #30
+    Vertex -0.822116 0.209171 -0.578113 #31
+    Vertex -1.0 0.209171 -0.578113 #32
+    Vertex 1.036629 -0.352667 0.370977 #33
+    Vertex 1.036629 -0.352667 0.599641 #34
+    Vertex -0.851973 -0.352667 -0.598775 #35
+    Vertex -1.036348 -0.352667 -0.598775 #36
+    Vertex -0.851974 -0.352667 0.599641 #37
+    Vertex -1.036349 -0.352667 0.599641 #38
+    Vertex -1.036348 -0.352667 -0.419352 #39
+    Vertex -0.851973 -0.352667 -0.419352 #40
+    Vertex 1.036629 -0.352667 -0.598774 #41
+    Vertex 0.836285 -0.352667 -0.598775 #42
+    Vertex 0.836285 -0.352667 0.599641 #43
+    Vertex 0.836285 -0.352667 -0.419352 #44
+    Vertex -1.036349 -0.352667 0.370977 #45
+    Vertex -0.851974 -0.352667 0.370977 #46
+    Vertex 0.836285 -0.352667 0.370977 #47
+    Vertex 1.036629 -0.352667 -0.419352 #48
+    Vertex -0.822116 0.209171 0.578113 #49
+    Vertex -1.0 0.209171 0.578113 #50
+    Vertex -1.0 0.209171 -0.405007 #51
+    Vertex 0.806709 0.209171 -0.578113 #52
+    Vertex 0.806708 0.209171 0.578113 #53
+    Vertex 1.0 0.209171 -0.578113 #54
+    Vertex 1.0 0.209171 -0.405006 #55
+    Vertex -1.0 0.209171 0.357498 #56
+    Vertex -1.024413 0.151445 -0.592069 #57
+    Vertex -0.842175 0.151445 -0.592069 #58
+    Vertex 1.024538 0.151445 0.592457 #59
+    Vertex 0.826516 0.151445 0.592457 #60
+    Vertex 1.024539 0.151445 -0.414725 #61
+    Vertex 1.024538 0.151445 0.366443 #62
+    Vertex -0.842175 0.151445 0.592457 #63
+    Vertex -1.024413 0.151445 0.592457 #64
+    Vertex -1.024413 0.151445 0.366442 #65
+    Vertex 0.826517 0.151445 -0.592069 #66
+    Vertex -1.024413 0.151445 -0.414726 #67
+    Vertex 1.024539 0.151445 -0.592069 #68
+#texend Cube
+    Triangle 29 28 44
+    Triangle 29 44 48
+    Triangle 64 63 49
+    Triangle 64 49 50
+    Triangle 17 19 6
+    Triangle 17 6 2
+    Triangle 10 12 7
+    Triangle 10 7 3
+    Triangle 25 26 8
+    Triangle 25 8 4
+    Triangle 11 9 4
+    Triangle 11 4 8
+    Triangle 15 13 9
+    Triangle 15 9 11
+    Triangle 14 16 12
+    Triangle 14 12 10
+    Triangle 58 57 32
+    Triangle 58 32 31
+    Triangle 23 14 10
+    Triangle 23 10 22
+    Triangle 25 4 36
+    Triangle 25 36 39
+    Triangle 66 58 31
+    Triangle 66 31 52
+    Triangle 2 6 16
+    Triangle 2 16 14
+    Triangle 5 1 13
+    Triangle 5 13 15
+    Triangle 67 65 56
+    Triangle 67 56 51
+    Triangle 29 17 23
+    Triangle 29 23 28
+    Triangle 28 23 22
+    Triangle 28 22 27
+    Triangle 60 59 24
+    Triangle 60 24 53
+    Triangle 3 7 20
+    Triangle 3 20 18
+    Triangle 29 30 19
+    Triangle 29 19 17
+    Triangle 54 52 31
+    Triangle 31 32 51
+    Triangle 56 50 49
+    Triangle 31 51 56
+    Triangle 55 54 31
+    Triangle 53 24 21
+    Triangle 21 55 31
+    Triangle 31 56 49
+    Triangle 49 53 21
+    Triangle 31 49 21
+    Triangle 27 22 18
+    Triangle 27 18 25
+    Triangle 14 23 47
+    Triangle 14 47 43
+    Triangle 62 61 55
+    Triangle 62 55 21
+    Triangle 1 5 30
+    Triangle 1 30 29
+    Triangle 65 64 50
+    Triangle 65 50 56
+    Triangle 13 28 27
+    Triangle 13 27 9
+    Triangle 9 27 40
+    Triangle 9 40 35
+    Triangle 59 62 21
+    Triangle 59 21 24
+    Triangle 18 20 26
+    Triangle 18 26 25
+    Triangle 46 37 38
+    Triangle 46 38 45
+    Triangle 33 34 43
+    Triangle 33 43 47
+    Triangle 35 40 39
+    Triangle 35 39 36
+    Triangle 41 48 44
+    Triangle 41 44 42
+    Triangle 13 1 41
+    Triangle 13 41 42
+    Triangle 18 22 46
+    Triangle 18 46 45
+    Triangle 2 14 43
+    Triangle 2 43 34
+    Triangle 3 18 45
+    Triangle 3 45 38
+    Triangle 17 2 34
+    Triangle 17 34 33
+    Triangle 23 17 33
+    Triangle 23 33 47
+    Triangle 27 25 39
+    Triangle 27 39 40
+    Triangle 4 9 35
+    Triangle 4 35 36
+    Triangle 28 13 42
+    Triangle 28 42 44
+    Triangle 10 3 38
+    Triangle 10 38 37
+    Triangle 22 10 37
+    Triangle 22 37 46
+    Triangle 1 29 48
+    Triangle 1 48 41
+    Triangle 57 67 51
+    Triangle 57 51 32
+    Triangle 61 68 54
+    Triangle 61 54 55
+    Triangle 63 60 53
+    Triangle 63 53 49
+    Triangle 68 66 52
+    Triangle 68 52 54
+    Triangle 5 15 66
+    Triangle 5 66 68
+    Triangle 12 16 60
+    Triangle 12 60 63
+    Triangle 30 5 68
+    Triangle 30 68 61
+    Triangle 8 26 67
+    Triangle 8 67 57
+    Triangle 6 19 62
+    Triangle 6 62 59
+    Triangle 20 7 64
+    Triangle 20 64 65
+    Triangle 19 30 61
+    Triangle 19 61 62
+    Triangle 16 6 59
+    Triangle 16 59 60
+    Triangle 26 20 65
+    Triangle 26 65 67
+    Triangle 15 11 58
+    Triangle 15 58 66
+    Triangle 11 8 57
+    Triangle 11 57 58
+    Triangle 7 12 63
+    Triangle 7 63 64
+  ClumpEnd
+ModelEnd
